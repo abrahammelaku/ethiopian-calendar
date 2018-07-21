@@ -1,4 +1,4 @@
-# Ethiopian to/from Gregorian calendar converter
+# Ethiopian Calendar
 Example code to convert Gregorian to Ethiopian
 ```csharp
 var grDate = new DateTime(2018, 09, 10);
