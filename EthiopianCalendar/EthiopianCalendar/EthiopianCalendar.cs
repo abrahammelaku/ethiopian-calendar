@@ -177,7 +177,7 @@ namespace EthiopianCalendar
             {
                 year += 2;
             }
-            else if (remainder < 1095)
+            else if (remainder < 1096)
             {
                 year += 3;
             }
